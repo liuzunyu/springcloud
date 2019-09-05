@@ -1,3 +1,4 @@
-test:
-  user:
-    name: Xiao
+#端口号
+spring:
+  profiles:
+    active: dev
