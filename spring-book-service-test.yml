@@ -6,12 +6,12 @@ spring:
     name: spring-cloud-config-service
   cloud:
     config:
-      label: in-dev
+      label: in-test
       profile: test
       name: spring-book-service
 server:
-  port: 8882
+  port: 8883
 
 test:
   user:
-    name: master
+    name: in-test
