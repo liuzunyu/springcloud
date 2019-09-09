@@ -2,3 +2,13 @@ test:
   user:
     name: sale
     age: 21
+
+opentracing:
+  jaeger:
+    enabled: true
+    log-spans: true
+    const-sampler:
+      decision: true
+    udp-sender:
+      host: 114.67.94.97
+      port: 6831
