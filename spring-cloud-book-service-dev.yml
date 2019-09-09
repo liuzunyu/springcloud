@@ -7,7 +7,7 @@ spring:
   cloud:
     config:
       # 服务中心地址
-      uri: http://localhost:8888
+      uri: http://localhost:8887
       # yml尾缀{profile}
       profile: dev
       # git 分支
