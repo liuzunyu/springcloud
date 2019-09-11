@@ -1,0 +1,4 @@
+test:
+  user:
+    name: 子目录
+    age: 30
