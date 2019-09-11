@@ -1,0 +1,17 @@
+#端口号
+spring:
+  profiles:
+    active: dev
+  application:
+    name: spring-cloud-config-service
+  cloud:
+    config:
+      label: master
+      profile: dev
+      name: spring-book-service
+server:
+  port: 8881
+
+test:
+  user:
+    name: in-dev-test

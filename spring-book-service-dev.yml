@@ -1,5 +1,6 @@
 #端口号
 spring:
+<<<<<<< HEAD
   application:
     name: spring-book-service
 server:
@@ -15,7 +16,26 @@ eureka:
     #fetchRegistry: false
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+=======
+  profiles:
+    active: dev
+  application:
+    name: spring-cloud-config-service
+  cloud:
+    config:
+      label: master
+      profile: dev
+      name: spring-book-service
+server:
+  port: 8881
+
+>>>>>>> branch 'in-dev' of https://github.com/liuzunyu/springcloud.git
 test:
   user:
+<<<<<<< HEAD
     name: master-bus
     age: 88
+=======
+    name: in-dev-test
+    age: 10
+>>>>>>> branch 'in-dev' of https://github.com/liuzunyu/springcloud.git
