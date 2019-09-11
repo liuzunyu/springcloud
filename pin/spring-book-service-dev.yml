@@ -1,0 +1,4 @@
+test:
+  user:
+    name: master-test
+    age: 10
