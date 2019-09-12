@@ -5,4 +5,4 @@ test:
   user:
     age: 33
     name: jcr-test
-    password: '{cipher}5349a38d787584176cd1c562152dc1fb95693a8416a91c3815825efcc51391a1'
+    password: '{cipher}AQAHkhQ6H7omdBOFfiLnxJ1b4pHT1xovkuyA7UmLyqJKCUK5paWwaTz+BXJ1UwspfEetFZ2DXXy0KP0OzJ0YsCGAaUCag5IoA4DF17NxVaWnByvtnuV6nscC1xcMaz6VKZ07P+ysGJiRf4MWpQ1oIwdBXI4Z57USwcS3ipsXzifg2GQ228ghGD96Tz/yIX6uCjJaFcejjCLc8Q7a0Cr4XGzkF7mWHWPvd2KsmlkYApv0wduNwSipdqdnHbf26liuzhjjq7IU9Kl1srfKOSRsYKtoIIV+1g4TG9AZNHjv6GZ1L3iB+xhn5J1mcAB30INMC+hiC3XJa58bHTHaFhJWY9J/rvwnpBn6+BkiuKFtsFxRfXVJ3KnQ409/mHmR3XDI1tk='
