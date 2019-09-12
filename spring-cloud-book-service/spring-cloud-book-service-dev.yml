@@ -1,5 +1,5 @@
 test:
   user:
-    name: in-test-cloud-book
+    name: master-cloud-book
     age: 40
     password: '{cipher}AQABBaM1fG3mEUVX/DMit6BdKQMUWL8P0Q7G8/lVgk/egcLhBCo4bOyZ8dwlscouDEpGfGiH8dI1GRI/YiPZbtIqY5vkDKbWTKQqjZZ/m6sWROds/fvik7+qJ4W/MywgeO9Er68HoCmwGKbRde4BPqUL2hmTw7Jmhg+NoNP9YPZPSQ6HvaM5+lA14yu1EKuLk7JEP/DsPzVqtkWPvEqeguLAo29AI8Qw2RxA52HEhYFICU7ZIcAme2XiiuWdWZGJlODhG9xabxUgri7iIfUNGCASReG/hSFj5mMPXjAse4j9SqHE6PSOKGmXZVUd8aRXtptsaHmfBUe/US/isMTfA8XNcikFLw4PLulir3sMydDCk/X8M66znOxTw/5AWLv2m6o='
