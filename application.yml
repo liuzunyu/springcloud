@@ -1,8 +1,0 @@
-#端口号
-spring:
-  profiles:
-    active: dev
-test:
-  user:
-    name: in-dev-appliction
-    age: 9
