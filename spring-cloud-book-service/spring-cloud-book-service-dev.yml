@@ -3,6 +3,6 @@ spring:
     active: dev
 test:
   user:
-    age: 23
-    name: jeager
+    age: 33
+    name: jcr-test
     password:'{cipher}5349a38d787584176cd1c562152dc1fb95693a8416a91c3815825efcc51391a1'
