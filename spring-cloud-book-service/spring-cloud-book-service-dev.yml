@@ -8,6 +8,8 @@ server:
   port: 8880
 
 test:
+  computer:
+    name: github
   user:
     name: in-test-cloud-book
     password: 111
