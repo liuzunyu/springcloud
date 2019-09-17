@@ -10,4 +10,5 @@ server:
 test:
   user:
     name: in-test-cloud-book
+    password: 111
     age: 40
